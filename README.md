@@ -4,7 +4,7 @@
 ## About Me
 - I'm currently learning Web development at Wegan Academy.
 - I'm interested in Web development, Android and data Analytics.
-- I'm looking to collaborate on basic beginner-friendly projects using Java language. 
+- I'm looking to collaborate on basic beginner-friendly projects using JavaScript language. 
 
 ## Skills I'm Building
 - Git and GitHub
