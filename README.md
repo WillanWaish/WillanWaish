@@ -17,7 +17,6 @@
 
 ## How to Reach Me
 - Email: mwangiwillan@gmail.com
-- LinkedIn: www.linkedin.com/in/
-willan-mwangi-81386b266
+- LinkedIn: www.linkedin.com/in/willan-mwangi-81386b266
 
 
