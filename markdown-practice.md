@@ -26,3 +26,9 @@ I am of high intrest in volkswagen car and machineries [volkswagen](https://volk
                                    | python     | soft development      |https://python.com             |
 
                                    
+<pyton>
+def greet(Willan):
+    return f"Hello, {willan}!"
+
+user_name = "willan"
+print(hello(willanwaish))                                   
