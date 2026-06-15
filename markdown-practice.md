@@ -39,7 +39,7 @@ print(hello(willanwaish))
 
 ## About me 
 
-My name is Willan Mwangi, A ## programming studend. I have a passion in *software* development and web design.
+My name is Willan Mwangi, a **programming** studend. I have a passion in *software* development and web design.
 
 ### List of things i have laernt 
 
