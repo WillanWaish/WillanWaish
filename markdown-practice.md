@@ -38,9 +38,13 @@ print(hello(willanwaish))
 >Under the few days I have learned how to code using htlm language.
 
 ##About me 
+
 My name is Willan Mwangi, A ##programming studend. I have a passion in *software* development and web design.
+
 ###List of things i have laernt 
+
 1.How to use Html
 2.How to use Vs-code
 3.How do design a web page 
+
 >Looking forward to learning more in matters to software development.
