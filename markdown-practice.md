@@ -20,12 +20,11 @@ I am of high intrest in volkswagen car and machineries [volkswagen](https://volk
 
 3.Commit with a message using git commit -m "your message"
                                   
-                                   | tool       | purpose               |        Link                   |
-                                   |            |                       |                               |
-                                   |------------|-----------------------|-------------------------------|
-                                   | vs-code    | supporting as a server|https://code.visualstudio.com  |
-                                   | javascript | writing a code        |https://javascript.com         | 
-                                   | python     | soft development      |https://python.com             |
+| tool       | purpose               |        Link                   | 
+|------------|-----------------------|-------------------------------|
+| vs-code    | supporting as a server|https://code.visualstudio.com  | 
+| javascript | writing a code        |https://javascript.com         | 
+| python     | soft development      |https://python.com             |
 
                                    
 <pyton>
